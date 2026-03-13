@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-My research focuses on **distribution-free statistical inference** and related methods for uncertainty quantification and predictive inference.
+My research focuses on model-free statistical inference and related problems in prediction, distributional estimation, and statistical methodology.
 
 ## Research Interests
 
@@ -17,6 +17,6 @@ My research focuses on **distribution-free statistical inference** and related m
 
 ## Current Research
 
-I am currently working on **conformal density estimation methods for synthetic data generation**, with a particular interest in **high-dimensional settings**.
+I am currently working on conformal density estimation methods for synthetic data generation, with a particular interest in high-dimensional settings.
 
 More broadly, I am interested in developing statistically reliable methods that remain useful even when strong parametric assumptions are difficult to justify.

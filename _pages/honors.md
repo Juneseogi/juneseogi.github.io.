@@ -12,6 +12,6 @@ author_profile: true
 - GSI Appointment (Teaching & Research Assistant), 2025
 - **President’s Award**, Graduated with rank #1 in the College of Social Sciences, 2025
 - **SKKU Summa Cum Laude**, 2025
-- **Global Center Donor Scholarship**, 2023
+- Global Center Donor Scholarship, 2023
 - Academic Excellence Scholarship, 2017–2023
 - Excellence Award, Psychology Research Conference, 2019

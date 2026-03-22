@@ -1,46 +1,56 @@
 ---
 permalink: /miscellaneous/
-title: "Selected Coursework"
+title: "Miscellaneous"
 author_profile: true
 ---
 
 ## Statistics
 
-### Graduate level
-- Advanced Regression Analysis (SKKU)
-- Probability Thoery 1, 2
-- Theory of Statistics 1, 2
+### Graduate Level
+- Advanced Regression Analysis
+- Probability Theory I, II
+- Theory of Statistics I, II
 - Applied Statistics
 - Statistical Machine Learning
-- Deep Learning: Statistical Perspective
+- Deep Learning: A Statistical Perspective
 
-### Undergraduate level
+### Undergraduate Level
 - Statistics
 - Introduction to Mathematical Statistics
 - Introduction to Statistical Programming (R)
 - Introduction to Regression Analysis
-- Introduction to Statistical Inferences
+- Introduction to Statistical Inference
 - Stochastic Processes
 
 ## Mathematics
 
-### Graduate level
-- Real Analysis (Stein)
-- Applications of Partial Differential Equations (Evans)
-- Advanced Topology (Algebraic Topology, Hatcher)
+### Graduate Level
+- Real Analysis
+- Applications of Partial Differential Equations
+- Advanced Topology
 - Probability and Statistics
-- Financial Mathematics (Stochastic Differential Equations)
-- Probabilistic Generative Model
+- Financial Mathematics
+- Probabilistic Generative Models
 
-### Undergraduate level
-- Calculus 1, 2
-- Linear Algebra 1, 2
-- Analysis 1, 2
-- Topology 1, 2
+### Undergraduate Level
+- Calculus I, II
+- Linear Algebra I, II
+- Analysis I, II
+- Topology I, II
 - Differential Equations
-- Modern Algebra 1
-- Complex Analysis 1
-- Differential Geometry 1, 2
-- Real Variables (Undergraduate Real Analysis)
-- Topics in Analysis (Functional Analysis)
-- Computer Aided Applied Mathematics (Machine Learning, Python)
+- Modern Algebra I
+- Complex Analysis I
+- Differential Geometry I, II
+- Real Variables
+- Topics in Analysis
+- Computer-Aided Applied Mathematics
+
+## Academic Service
+
+### Graduate Lab Manager, Model-Free Statistical Methods Laboratory
+As Graduate Lab Manager of the Model-Free Statistical Methods Laboratory at Seoul National University, I support internal communication, lab introduction, and administrative tasks.
+
+- Contributed to lab introduction and outreach materials
+- Helped coordinate internal communication and day-to-day lab operations
+
+[Lab Introduction Slides](/files/Modelfreelab.pdf)

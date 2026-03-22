@@ -1,13 +1,12 @@
 ---
 permalink: /miscellaneous/
-title: "Miscellaneous"
 author_profile: true
 ---
 
 ## Selected Coursework
 ### Statistics
 
-#### Graduate Level
+### Graduate Level
 - Advanced Regression Analysis
 - Probability Theory I, II
 - Theory of Statistics I, II
@@ -15,7 +14,7 @@ author_profile: true
 - Statistical Machine Learning
 - Deep Learning: A Statistical Perspective
 
-#### Undergraduate Level
+### Undergraduate Level
 - Statistics
 - Introduction to Mathematical Statistics
 - Introduction to Statistical Programming (R)
@@ -25,7 +24,7 @@ author_profile: true
 
 ### Mathematics
 
-#### Graduate Level
+### Graduate Level
 - Real Analysis
 - Applications of Partial Differential Equations
 - Advanced Topology
@@ -33,7 +32,7 @@ author_profile: true
 - Financial Mathematics
 - Probabilistic Generative Models
 
-#### Undergraduate Level
+### Undergraduate Level
 - Calculus I, II
 - Linear Algebra I, II
 - Analysis I, II

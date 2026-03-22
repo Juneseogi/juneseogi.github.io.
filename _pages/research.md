@@ -1,6 +1,5 @@
 ---
 permalink: /research/
-title: "Research"
 author_profile: true
 ---
 
@@ -19,4 +18,4 @@ My research focuses on model-free statistical inference and related problems in 
 
 I am currently working on conformal density estimation methods for synthetic data generation, with a particular interest in high-dimensional settings.
 
-More broadly, I am interested in developing statistically reliable methods that remain useful even when strong parametric assumptions are difficult to justify.
+More broadly, I am interested in developing reliable statistical methods that retain strong estimation accuracy even under weak modeling assumptions.

@@ -7,7 +7,8 @@ author_profile: true
 ## Presentations
 
 - Invited Talk, *Kyushu–SNU Statistics and Data Science Workshop*, Fukuoka, Japan, Nov. 2025  
-  “Constructing Conformal Predictive Distributions via Kernel-Localized Residuals”
+  *Constructing Conformal Predictive Distributions via Kernel-Localized Residuals*  
+  [Slides](/files/SNU_Kyushu_Workshop.pdf)
 
 - Presenter, *The 15th Psychology Research Conference, Sungkyunkwan University*, Seoul, Korea, Nov. 2019
 

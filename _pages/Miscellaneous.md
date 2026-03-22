@@ -4,9 +4,10 @@ title: "Miscellaneous"
 author_profile: true
 ---
 
-## Statistics
+## Selected Coursework
+### Statistics
 
-### Graduate Level
+#### Graduate Level
 - Advanced Regression Analysis
 - Probability Theory I, II
 - Theory of Statistics I, II
@@ -14,7 +15,7 @@ author_profile: true
 - Statistical Machine Learning
 - Deep Learning: A Statistical Perspective
 
-### Undergraduate Level
+#### Undergraduate Level
 - Statistics
 - Introduction to Mathematical Statistics
 - Introduction to Statistical Programming (R)
@@ -22,9 +23,9 @@ author_profile: true
 - Introduction to Statistical Inference
 - Stochastic Processes
 
-## Mathematics
+### Mathematics
 
-### Graduate Level
+#### Graduate Level
 - Real Analysis
 - Applications of Partial Differential Equations
 - Advanced Topology
@@ -32,7 +33,7 @@ author_profile: true
 - Financial Mathematics
 - Probabilistic Generative Models
 
-### Undergraduate Level
+#### Undergraduate Level
 - Calculus I, II
 - Linear Algebra I, II
 - Analysis I, II
@@ -51,6 +52,6 @@ author_profile: true
 As Graduate Lab Manager of the Model-Free Statistical Methods Laboratory at Seoul National University, I support internal communication, lab introduction, and administrative tasks.
 
 - Contributed to lab introduction and outreach materials
-- Helped coordinate internal communication and day-to-day lab operations
+- Helped internal communication and admistrative work. 
 
 [[Lab Introduction Slides]](/files/Modelfreelab.pdf)

@@ -6,6 +6,9 @@ author_profile: true
 
 This page contains course materials for Nonparametric Statistics and Lab (326.414).
 
+### Week 1
+- [Syllabus](/files/실습 수업계획서.pdf)
+
 ### Week 2 
 
 - [Practice Problem](/files/Week2_실습문제.pdf)

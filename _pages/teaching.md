@@ -1,10 +1,9 @@
 ---
 permalink: /teaching/
-title: "Teaching"
 author_profile: true
 ---
 
-I enjoy helping students build practical statistical computing skills in R and Python, especially through hands-on data analysis, programming, and problem-solving. I am particularly interested in supporting students as they develop confidence in working with real data, interpreting results, and connecting statistical ideas to practical applications.
+I enjoy helping students develop practical skills in statistical computing with R and Python through hands-on data analysis and programming. I am particularly interested in supporting students as they build confidence in working with real data, interpreting results, and applying statistical ideas in practice.
 
 ## Teaching Experience
 

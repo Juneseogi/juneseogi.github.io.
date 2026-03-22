@@ -53,4 +53,4 @@ As Graduate Lab Manager of the Model-Free Statistical Methods Laboratory at Seou
 - Contributed to lab introduction and outreach materials
 - Helped coordinate internal communication and day-to-day lab operations
 
-[Lab Introduction Slides](/files/Modelfreelab.pdf)
+[[Lab Introduction Slides]](/files/Modelfreelab.pdf)

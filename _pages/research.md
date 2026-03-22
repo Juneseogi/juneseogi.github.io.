@@ -10,7 +10,7 @@ My research focuses on model-free statistical inference and related problems in 
 - Model-free statistical inference
 - Conformal prediction
 - Conditional independence testing
-- Causal inference
+- Nonparametric function estimation
 - Psychometrics
 - Applications in the social sciences
 

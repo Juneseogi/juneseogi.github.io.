@@ -14,7 +14,12 @@ This page contains course materials for Nonparametric Statistics and Lab (326.41
 ### Week 3
 - [R Practice Lecture Note](/files/Lab1.html)
 - [TA's Handwriting](/files/Week3_실습수업_필기.pdf)
-### Week 4 
 
+### Week 4 
 - [Practice Problem](/files/Week4_실습문제.pdf)
 - [Solution](/files/Week4_실습문제_풀이.pdf)
+
+### Week 5
+- [Practice Problem](/files/Week5_실습문제.pdf)
+- [Solution](/files/Week5_실습문제_풀이.pdf)
+

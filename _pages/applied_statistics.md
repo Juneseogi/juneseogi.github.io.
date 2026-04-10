@@ -27,4 +27,5 @@ This page contains study materials for Applied Statistics (Graduate-Level Linear
 
 ## Assignment Solutions
 - [Assignment#1](/files/응용통계_과제1_이준석.pdf)
+- [Assignment#2](/files/응용통계_과제2_이준석.pdf)
 - [Assignment#3](/files/응용통계_과제3_이준석.pdf)

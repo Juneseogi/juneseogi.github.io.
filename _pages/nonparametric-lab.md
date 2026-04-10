@@ -23,3 +23,6 @@ This page contains course materials for Nonparametric Statistics and Lab (326.41
 - [Practice Problem](/files/Week5_실습문제.pdf)
 - [Solution](/files/Week5_실습문제_풀이.pdf)
 
+### Week 6
+- [Assignment Solution](/files/Week6_HW1_답안.html)
+

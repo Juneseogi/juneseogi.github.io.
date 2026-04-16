@@ -26,3 +26,6 @@ This page contains course materials for Nonparametric Statistics and Lab (326.41
 ### Week 6
 - [Assignment Solution](/files/Week6_HW1_답안.html)
 
+### Week 7
+- [R Practice Lecture Note](/files/Lab2.html)
+- [TA's Handwriting](/files/Week7_실습수업_필기.pdf)

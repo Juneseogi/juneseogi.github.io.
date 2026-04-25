@@ -15,6 +15,12 @@ This page contains study materials for Applied Statistics (Graduate-Level Linear
 - [Winter](/files/appstat_2023_winter.pdf)
 - [Winter (Master)](/files/appstat_2023_winter_master.pdf)
 
+### 2021
+- [Winter](/files/appstat_2021_winter.pdf)
+
+### 2020
+- [Winter](/files/appstat_2020_winter.pdf)
+
 ### 2017
 - [Summer](/files/appstat_2017_summer.pdf)
 - [Winter](/files/appstat_2017_winter.pdf)

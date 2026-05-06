@@ -16,6 +16,5 @@ My research focuses on model-free statistical inference and related problems in 
 
 ## Current Research
 
-I am currently working on conformal density estimation methods for synthetic data generation, with a particular interest in high-dimensional settings.
-
-More broadly, I am interested in developing reliable statistical methods that retain strong estimation accuracy even under weak modeling assumptions.
+I am currently developing conformal distribution estimation methods for synthetic data generation within the localized conformal prediction framework. 
+More broadly, I am interested in reliable statistical methods that achieve strong estimation accuracy under limited modeling assumptions.

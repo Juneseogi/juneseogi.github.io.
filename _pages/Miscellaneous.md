@@ -50,7 +50,7 @@ author_profile: true
 ### Graduate Lab Manager, Model-Free Statistical Methods Laboratory
 As Graduate Lab Manager of the Model-Free Statistical Methods Laboratory at Seoul National University, I support internal communication, lab introduction, and administrative tasks.
 
-- Contributed to lab introduction and outreach materials
-- Helped internal communication and admistrative work. 
+- Contributed to lab introduction materials
+- Helped internal communication and administrative work. 
 
 [[Lab Introduction Slides]](/files/Modelfreelab.pdf)

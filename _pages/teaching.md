@@ -8,7 +8,7 @@ I enjoy helping students develop practical skills in statistical computing with 
 ## Teaching Experience
 
 ### Seoul National University
-- Lab Instructor, *Survival Analysis and Lab (R)*, 326.412, Fall 2026
+- Lab Instructor, *Survival Data Analysis and Lab (R)*, 326.412, Fall 2026
 - Lab Instructor, *Nonparametric Statistics and Lab (R)*, 326.414, Spring 2026 [[Lab materials]](/teaching/nonparametric-lab/)
 - Lab Instructor, *Data Analysis Bootcamp (Python)*, Winter 2025
 - Lab Instructor, *Data Analysis and Lab (R)*, M1399.001400, Fall 2025

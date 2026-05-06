@@ -16,5 +16,6 @@ My research focuses on model-free statistical inference and related problems in 
 
 ## Current Research
 
-I am currently developing conformal distribution estimation methods for synthetic data generation within the localized conformal prediction framework. 
+I am currently developing conformal distribution estimation methods for synthetic data generation within the localized conformal prediction framework.
+
 More broadly, I am interested in reliable statistical methods that achieve strong estimation accuracy under limited modeling assumptions.

@@ -13,6 +13,7 @@ author_profile: true
 
 ## Publications
 - **Lee, J.** and Jeon, J. (2026+). **Fejér-Positive Sieve Likelihood for Circular Measurement Error Models without Auxiliary Data.**, *Submitted to the Electronic Journal of Statistics.*
+- Anonymous authors. (2026+). **Pointwise Inference for Geodesic Kernel Density and Regression Estimators on Riemannian Manifolds.**, *In preparation.*
 
 
 ## Presentations
